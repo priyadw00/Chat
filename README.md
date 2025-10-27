@@ -1,2 +1,2 @@
 # Chat
-Chat client and server in C
+Client and server written in C 
